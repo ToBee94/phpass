@@ -1,0 +1,26 @@
+{
+    "name": "tvorwachs/phpass",
+    "type": "library",
+    "time" : "2016-09-09",
+    "license" : "Public Domain",
+    "description": "Portable PHP password hashing framework based on http://openwall.com/phpass/",
+    "keywords": ["Blowfish", "crypt", "password", "security", "password", "hash", "portable"],
+    "homepage": "http://github.com/lovelins12/phpass/",
+    "authors": [
+        {
+            "name" : "Solar Designer",
+            "email": "solar@openwall.com",
+            "homepage": "http://openwall.com/phpass/"
+        },
+		{
+            "name" : "Tobias Vorwachs",
+            "email": "tobias@vorwachs.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-0": {"tvorwachs": "src/"}
+    }
+}
