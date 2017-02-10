@@ -1,4 +1,4 @@
-Openwall Phpass for xomposer
+Openwall Phpass for Composer
 ===========================
 
 This is Openwall's [Phpass](http://openwall.com/phpass/), based on the 0.3 release for namespace and composer:
