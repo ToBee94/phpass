@@ -13,7 +13,10 @@ Add this requirement to your `composer.json` file and run `composer.phar install
 
     {
         "require": {
-            "tvorwachs/phpass": "0.3.0"
+            "tvorwachs/phpass": "v0.3.0"
         }
     }
 
+or
+
+run `composer require tvorwachs/phpass`
